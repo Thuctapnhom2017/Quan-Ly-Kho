@@ -18,6 +18,7 @@ namespace InventoryManage
             InitializeComponent();
         }
         MyContext db = new MyContext();
+
         public void LoadDgv()
         {
             var result = from c in db.Storekeepers
@@ -41,6 +42,7 @@ namespace InventoryManage
             DgvSto.Columns["DateOfBirth"].Width = 150;
             DgvSto.Columns["DateOfBirth"].HeaderText = "BirthDay";
         }
+
         public void LoadDgv( List<Storekeeper> List)
         {
             DgvSto.DataSource = List;
@@ -57,6 +59,7 @@ namespace InventoryManage
             DgvSto.Columns["BillExports"].Visible = false;
             DgvSto.Columns["Users"].Visible = false;
         }
+
         public void LoadDetail()
         {
             TxtStoName.Text = DgvSto.CurrentRow.Cells["Name"].Value.ToString();
@@ -65,6 +68,7 @@ namespace InventoryManage
             TxtStoAddress.Text = DgvSto.CurrentRow.Cells["Ad"].Value.ToString();
             BirthDay.Value = DateTime.Parse(DgvSto.CurrentRow.Cells["DateOfBirth"].Value.ToString());
         }
+        //Form load
         private void FormStorekeepers_Load(object sender, EventArgs e)
         {
             LoadDgv();
@@ -173,7 +177,23 @@ namespace InventoryManage
             LoadDgv();
             LoadDetail();
         }
-
+        
+        //btndelete
+        private void BtStoDelete_Click(object sender, EventArgs e)
+        {
+            var Id = DgvSto.CurrentRow.Cells["ID"].Value.ToString();
+            int IdSto = Convert.ToInt32(Id);
+            var result = db.Storekeepers.Find(IdSto);
+            if (MessageBox.Show("Do you want to delete this item?", "", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                db.Storekeepers.Remove(result);
+                db.SaveChanges();
+                LoadDgv();
+                LoadDetail();
+            }
+            else return;
+        }
+        //btnsua
         private void BtStoEdit_Click(object sender, EventArgs e)
         {
             var Id = DgvSto.CurrentRow.Cells["ID"].Value.ToString();
@@ -191,21 +211,6 @@ namespace InventoryManage
             result.DateOfBirth = BirthDay.Value;
             if (MessageBox.Show("Do you want to save changes?", "", MessageBoxButtons.OKCancel) == DialogResult.OK)
             {
-                db.SaveChanges();
-                LoadDgv();
-                LoadDetail();
-            }
-            else return;
-        }
-
-        private void BtStoDelete_Click(object sender, EventArgs e)
-        {
-            var Id = DgvSto.CurrentRow.Cells["ID"].Value.ToString();
-            int IdSto = Convert.ToInt32(Id);
-            var result = db.Storekeepers.Find(IdSto);
-            if (MessageBox.Show("Do you want to delete this item?", "", MessageBoxButtons.OKCancel) == DialogResult.OK)
-            {
-                db.Storekeepers.Remove(result);
                 db.SaveChanges();
                 LoadDgv();
                 LoadDetail();
