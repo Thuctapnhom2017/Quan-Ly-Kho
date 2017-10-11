@@ -1,0 +1,66 @@
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe.config
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\InventoryManage.pdb
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\EntityFramework.dll
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.dll
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\EntityFramework.xml
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.xml
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csprojResolveAssemblyReference.cache
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormCustomers.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormExportation.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormHome.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormImportations.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormLogIn.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormProducts.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormRegistration.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormStorekeepers.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormSupplier.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.Properties.Resources.resources
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csproj.GenerateResource.Cache
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.exe
+F:\ky 6\thuctapnhom\InventoryManage\InventoryManage\obj\Debug\InventoryManage.pdb
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe.config
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.exe
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.pdb
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\InventoryManage.pdb
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\EntityFramework.dll
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\EntityFramework.xml
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csprojResolveAssemblyReference.cache
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormCustomers.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormExportation.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormHome.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormImportations.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormLogIn.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormProducts.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormRegistration.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormStorekeepers.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormSupplier.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.Properties.Resources.resources
+C:\Users\Albert And Uaena\Desktop\TTN\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csproj.GenerateResource.Cache
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe.config
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.exe
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.pdb
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\InventoryManage.pdb
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\EntityFramework.dll
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.dll
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\EntityFramework.xml
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\bin\Debug\EntityFramework.SqlServer.xml
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csprojResolveAssemblyReference.cache
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormExportation.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormHome.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormImportations.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormLogIn.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormProducts.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormRegistration.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormStorekeepers.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormSupplier.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.Properties.Resources.resources
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.csproj.GenerateResource.Cache
+F:\ky 6\cnpm\BTL\InventoryManage\InventoryManage\obj\Debug\InventoryManage.FormSuppliers.resources
+D:\nam 4\TT nhom\InventoryManangement\InventoryManage\InventoryManage\bin\Debug\InventoryManage.exe.config
+D:\nam 4\TT nhom\InventoryManangement\InventoryManage\InventoryManage\obj\Debug\InventoryManage.exe
+D:\nam 4\TT nhom\InventoryManangement\InventoryManage\InventoryManage\obj\Debug\InventoryManage.pdb
